@@ -34,13 +34,13 @@ const Project = () => {
                     </div>
                     <div className='project-image_second'>
                               <div className='project-image-container'>
-                                    <img src="./microsoft.png" alt="" />
+                                    <img src="./project-5.png" alt="" />
                                     <div className="project-para-overlay">
                                           <p>This is a Website made using Tailwind Css and <br />
-                                             Vanilla Js . As we can see I have cloned Microsoft's Website. 
+                                             React Js . As we can see I have cloned Microsoft's Website. 
                                              <br/>                                              
                                            The website is completely responsive across all devices . </p>
-                                           <a href="https://mrrijan.github.io/microsoftclone/" target="_blank"><BiLinkExternal size={25} color='#FFF'/></a>
+                                           <a href="https://tailwind-react-project-joae.vercel.app/" target="_blank"><BiLinkExternal size={25} color='#FFF'/></a>
                                   </div>
                               </div>
                               <div className='project-image-container'>
